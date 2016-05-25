@@ -1,4 +1,4 @@
-//* projet samir hamel
+//* projet samir hamel paris 8
 
 #include "opencv2/highgui/highgui.hpp"
 #include <iostream>
